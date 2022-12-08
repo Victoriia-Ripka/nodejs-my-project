@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoriia-Ripka/nodejs-my-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoriia-Ripka/nodejs-my-project/issues"
+  },
+  "homepage": "https://github.com/Victoriia-Ripka/nodejs-my-project#readme"
+}
